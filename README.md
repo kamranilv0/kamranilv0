@@ -66,13 +66,6 @@ I'm passionate about building scalable web applications and working with embedde
 
 ---
 
-## 🏆 GitHub Achievements
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=kamranilv0&theme=tokyonight&no-frame=true&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
-</div>
-
----
 
 ## 🤝 Connect With Me
 
@@ -85,15 +78,6 @@ I'm passionate about building scalable web applications and working with embedde
   <a href="https://discord.gg/kamranilv#6140"><img src="https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/></a>
 </p>
 
----
-
-## ☕ Support My Work
-
-If you find my projects helpful or interesting, consider supporting me:
-
-<p align="center">
-  <a href="https://bmc.link/kamranilv"><img src="https://img.shields.io/badge/-Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black"/></a>
-</p>
 
 ---
 
